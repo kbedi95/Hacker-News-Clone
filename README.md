@@ -8,10 +8,11 @@ Features Include:
 > - Adding comments to a given post
 > - Viewing comments for a given post
 > - Upvoting posts and comments
+> - User Registration and Login
 
 Dependencies
 --------------------
-Node and mongoDB are assumed to be globally installed and running
+Node and MongoDB are assumed to be installed and running
 
 
 Installation
@@ -26,4 +27,12 @@ Running the Application
 ```shell
 npm start
 ```
-to start the application at [localhost:3000](http://www.localhost:3000)
+to start the application at [localhost:3000](http://localhost:3000)
+
+Sample Posts Page
+----------------------
+![](http://i.markdownnotes.com/blob_x9Fc4M4.jpg)
+
+Sample Comments Page
+------------------------
+![](http://i.markdownnotes.com/blob_Jvh6zNa.jpg)
